@@ -6,3 +6,8 @@ cd StackOverflow-Maven-Jackson
 mvn clean install
 java -jar target/Demo-1.0-SNAPSHOT.jar
 ```
+
+-----
+Check out the `fixed` branch to see the fix.
+
+https://github.com/hackjutsu/StackOverflow-Maven-Jackson/tree/fixed
